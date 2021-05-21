@@ -1,0 +1,10 @@
+C:\Users\liza_\source\repos\Bridge1\Bridge1\obj\Debug\Bridge1.csprojAssemblyReference.cache
+C:\Users\liza_\source\repos\Bridge1\Bridge1\obj\Debug\Bridge1.Form1.resources
+C:\Users\liza_\source\repos\Bridge1\Bridge1\obj\Debug\Bridge1.Properties.Resources.resources
+C:\Users\liza_\source\repos\Bridge1\Bridge1\obj\Debug\Bridge1.csproj.GenerateResource.cache
+C:\Users\liza_\source\repos\Bridge1\Bridge1\obj\Debug\Bridge1.csproj.CoreCompileInputs.cache
+C:\Users\liza_\source\repos\Bridge1\Bridge1\bin\Debug\Bridge1.exe.config
+C:\Users\liza_\source\repos\Bridge1\Bridge1\bin\Debug\Bridge1.exe
+C:\Users\liza_\source\repos\Bridge1\Bridge1\bin\Debug\Bridge1.pdb
+C:\Users\liza_\source\repos\Bridge1\Bridge1\obj\Debug\Bridge1.exe
+C:\Users\liza_\source\repos\Bridge1\Bridge1\obj\Debug\Bridge1.pdb
